@@ -6,6 +6,5 @@
   gather_facts: false
   tasks:
   - name: Check Elastic version
-    shell:
-      cmd: "{{ elastic_home }}/bin/elasticsearch --version"
+    command: "{{ elastic_home }}/bin/elasticsearch --version"
     changed_when: false
