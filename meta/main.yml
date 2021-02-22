@@ -1,6 +1,6 @@
 galaxy_info:
-  author: Alexey Metlyakov
-  description: Install elasticsearch from remote server
+  author: Ivan Zhilyaev
+  description: Install elasticsearch to remote server
   company: Netology
 
   # If the issue tracker for your role is not on github, uncomment the
